@@ -41,7 +41,7 @@ export default function Home({ allPostDate }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyle.headingMd}>
-        <p>めろです。郡山市の若葉町に住んでるにゃ。ろーずも一緒にゃ。同居人はしょうへいとありさにゃ。</p>
+        <p>めろですにゃ。郡山市の若葉町に住んでるにゃ。ろーずも一緒にゃ。同居人はしょうへいとありさにゃ。よろしくにゃ。</p>
       </section>
 
       <section>
